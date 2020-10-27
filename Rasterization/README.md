@@ -6,4 +6,7 @@ applications and the complications that exist when presented with such a seeming
 
 The web application of this program can be found at the link: https://jtkitchen.github.io/Projects/basicRasterizationPage/rasterization.html
 <br>
+<br>
+<br>
+<br>
 ![](rasterization.gif)
