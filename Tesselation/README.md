@@ -1,3 +1,5 @@
+# Tesselation in WebGL
+
 This project consisted of iteratively tesselating several objects: a cube, cylinder, cone, and sphere. The structure of the code was given by the teacher,
 mainly the html webpage and the OpenGL code, with the implementation of the tesselation as the project.
 
@@ -10,6 +12,9 @@ The following GIF shows a basic demonstration of the code. However, you can also
 <br>
 <br>
 <br>
-<br>
 
-![](tesselation.gif)
+<p align="center">
+  <img src="tesselation.gif" width="400">
+      <br>
+      Tesselation Program GIF
+</p>
