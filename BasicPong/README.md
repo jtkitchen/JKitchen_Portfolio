@@ -11,7 +11,7 @@ This program was completed using Python 2.7.9 using the tkinter library.
 <br>
 
 <p align="center">
-  <img src="basicPong.gif" width="400">
+  <img src="basicPong.gif" width="600">
       <br>
       Basic Pong Game GIF
 </p>
