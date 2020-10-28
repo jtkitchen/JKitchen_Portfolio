@@ -8,7 +8,10 @@ This project helped demonstrate the unexpected complications that can arise from
 speed up the sorting algorithm as it checks more itmes on each pass, as the sample size grows larger it slows down considerably due to the extra logic. Nonetheless, it was
 an interesting proejct to work on, and many things could be improved if I had to revisit the idea again.
 
-The project was completed using JGrasp, and the GIF below represents a simple running of the program sorting a random array of integer values.
+The project was completed using jGRASP, and the GIF below represents a simple running of the program sorting a random array of integer values. It should be noted that the third
+implementation does not work exactly, as there is an edge case in the logical path that has not been resolved.
+
+<br>
 
 <p align="center">
   <img src="selectionSort.gif" width="400">
