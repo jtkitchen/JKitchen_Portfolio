@@ -1,4 +1,6 @@
 import java.util.Arrays;
+import java.util.Scanner;
+
 //Analysis in the google doc with questions from Ch. 3
 
 public class RunMagicSquare {
@@ -31,7 +33,9 @@ public class RunMagicSquare {
          
       */
       
-      int size = 4;
+      Scanner scan = new Scanner( System.in );
+      System.out.println( "Size of the N x N matrix: " );
+      int size = scan.nextInt();
 		MagicSquare test = new MagicSquare( size );
       int[] result = test.findMagicSquare();
       

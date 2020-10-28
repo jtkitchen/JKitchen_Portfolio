@@ -193,7 +193,7 @@ public class MatrixOperations
          }
        System.out.println("\n");
        }
-       System.out.println( "This took " + steps + " steps." );
+       //System.out.println( "This took " + steps + " steps." );
    }
    
    
@@ -205,7 +205,7 @@ public class MatrixOperations
          {
             if ( j == columns - 1 ) {System.out.print( "= " ); }
             
-            System.out.printf( "%.5f", matrix[i][j]);
+            System.out.printf( "%.2f", matrix[i][j]);
             
             if ( j != columns - 1 )
             {
