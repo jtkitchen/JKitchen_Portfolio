@@ -14,7 +14,7 @@ implementation does not work exactly, as there is an edge case in the logical pa
 <br>
 
 <p align="center">
-  <img src="selectionSort.gif" width="400">
+  <img src="selectionSort.gif" width="600">
       <br>
       Selection Sort GIF
 </p>
