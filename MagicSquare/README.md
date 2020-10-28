@@ -14,7 +14,7 @@ This program was done using jGRASP, and the GIF below represents a simple runnin
 <br>
 
 <p align="center">
-  <img src="magicSquare.gif" width="500">
+  <img src="magicSquare.gif" width="400">
       <br>
       Magic Square GIF
 </p>
