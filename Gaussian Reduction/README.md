@@ -15,7 +15,7 @@ b, and c.
 <br>
 
 <p align="center">
-  <img src="gaussSolve.gif" width="400">
+  <img src="gaussSolve.gif" width="800">
       <br>
       Gaussian Elimination GIF
 </p>
