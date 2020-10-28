@@ -10,8 +10,11 @@ thus an acceptable loss, and helped simplify the representation of characters wi
 This program was completed using jGRASP. The GIF below shows a simple running of the code, though the final image of the outlined values was merely for visual demonstration and
 is not an output of the program itself.
 
+<br>
+<br>
+
 <p align="center">
-  <img src="wordFind.gif" width="500">
+  <img src="wordFind.gif" width="900">
       <br>
       Word Find GIF
 </p>
