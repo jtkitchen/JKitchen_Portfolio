@@ -8,10 +8,9 @@ template to compare with, and runs each python program associated within that te
 The GUI allows for several customizations in error-checking, but the most common is ignoring general spelling mistakes, such as capitalization errors or missing/blank lines.
 
 This project helped me develop a sense of scale of projects when the task is larger than a simple concept. The importance of good habits, such as useful comments, constant 
-commits to a version control system, and general communication between the leader and team members, was evident when they were missing. Even though this is a relatively small
-project, having someone person hacking together a temporary fix without any references or explanations can cause long delays in trying to figure out what they did in the future.
+commits to a version control system, and general communication between the leader and team members, was evident- especially when they were missing. Even though this is a relatively small project, having someone person hacking together a temporary fix without any references or explanations can cause long delays in trying to figure out what they did in the future. However, when code is done properly, it becomes easy to follow the logic of others' work if needed.
 
-This program was completed in NetBeans, and the GIF below shows a very brief use of this program: a sample .pytest Text file used as the template, a run of the test and the
+This program was completed in NetBeans IDE, and the GIF below shows a very brief use of this program: a sample .pytest Text file used as the template, a run of the test and the
 list of results, and the two python programs that were being run a compared to in the template.
 
 <br>
