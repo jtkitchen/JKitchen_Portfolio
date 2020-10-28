@@ -4,7 +4,7 @@
 This project was a joint effort of my class. The project itself was started in 2015 by a previous set of students, and we were tasked to fix some of the bugs that our teacher
 had been finding in using it as well as implement some new, useful functionality. The premise of the program is to automate the testing of "copy and paste" python programs
 for basic python classes- where the output is explicit and/or constant in the instructions. The program uses a custom file extension, formatted in an XML fashion, as the
-template to compare with, runs each python program associated within that template, and then compares the output of the python program to the expected output of the template.
+template to compare with, and runs each python program associated within that template, and then compares the output of the python program to the expected output of the template.
 The GUI allows for several customizations in error-checking, but the most common is ignoring general spelling mistakes, such as capitalization errors or missing/blank lines.
 
 This project helped me develop a sense of scale of projects when the task is larger than a simple concept. The importance of good habits, such as useful comments, constant 
