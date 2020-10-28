@@ -18,7 +18,7 @@ list of results, and the two python programs that were being run a compared to i
 <br>
 
 <p align="center">
-  <img src="pyTest17.gif" width="800">
+  <img src="pyTest.gif" width="800">
       <br>
       Python Program Tester GIF
 </p>
