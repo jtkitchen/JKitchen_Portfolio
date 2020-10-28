@@ -1,0 +1,15 @@
+
+
+
+Hello!
+
+My name is Sarah.
+
+This is a text file that I made
+
+
+That has blank lines.
+
+
+In order to test my FileTextReader class.
+I hope it works!
