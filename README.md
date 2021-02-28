@@ -1,6 +1,6 @@
 # JKitchen_Portfolio
 ## Description
-This is a collection of a few projects that I have completed in my Computer Science courses, each of which demonstrating a particular learning experience within the field.
+This is a collection of a few projects that I have completed in my Computer Science courses, each of which demonstrate a particular learning experience within the field.
 
 1. Basic Pong (Python): Replicates a simple version of Pong
 2. Gaussian Reduction (Java): Solves a set of linear equations using Gaussian Reduction
